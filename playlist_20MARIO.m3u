@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,TUDN
+http://k4livetv.com:80/20MARIO/49584/931778
+#EXTINF:-1,TR3S
+http://k4livetv.com:80/20MARIO/49584/860392
+#EXTINF:-1,centroamerica tv
+http://k4livetv.com:80/20MARIO/49584/860391
+#EXTINF:-1,ION MYSTERY
+http://k4livetv.com:80/20MARIO/49584/860390
+#EXTINF:-1,ION +
+http://k4livetv.com:80/20MARIO/49584/860389
+#EXTINF:-1,NEWSMAX
+http://k4livetv.com:80/20MARIO/49584/860388
+#EXTINF:-1,FUBO LATINO
+http://k4livetv.com:80/20MARIO/49584/860387
+#EXTINF:-1,Bein Sports Extra Espanol
+http://k4livetv.com:80/20MARIO/49584/860385
+#EXTINF:-1,Bein Sports Extra
+http://k4livetv.com:80/20MARIO/49584/860384
